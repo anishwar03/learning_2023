@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 struct Box {
     double length;
     double width;
